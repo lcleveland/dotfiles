@@ -1,0 +1,15 @@
+Install base system
+Setup non-root user
+Install Yay - requires devel-base
+Change timedatectl to use ntp
+Change keyboard layout
+Change console font
+Install snapper, grub-btrfs
+Install Fish shell
+Install Hyprland
+Install browser
+Install brightnessctl
+Install alsa-utils for audio
+Install notification daemon
+Install wallpaper utility
+Install hyprland desktop portal
